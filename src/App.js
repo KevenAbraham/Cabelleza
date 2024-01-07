@@ -10,7 +10,6 @@ import CadastroSalao from './Pages/Cadastro/CadastroSalao';
 import Assinatura from './Pages/Assinatura/Assinatura';
 import PagePlanos from './Pages/Planos/PagePlanos';
 import PageConclusaoCadastro from './Pages/PageConclusaoCadastro/PageConclusaoCadastro';
-// import PageDados from './Pages/Dados/PageDado';
 import TermosECondicoes from './Pages/TermosECondicoes/TermosECondicoes';
 import PoliticaPrivacidade from './Pages/PoliticaPrivacidade/PoliticaPrivacidade';
 import ScrollToTop from './hooks/ScrollToTop';
